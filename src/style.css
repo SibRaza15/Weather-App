@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/1.2/css/weather-icons.min.css);
+
+body{
+background: linear-gradient(90deg, #7474BF 10%, #348AC7 90%);
+font-family: 'Open Sans'; 
+}
+
+#weather_wrapper{
+	width: 500px;
+	margin-left: 450px;
+  margin-top: 150px;
+}
+.weatherCard{
+	width: 400px;
+	height: 200px;
+	font-family: 'Open Sans';
+	position: relative;
+}
+.currentTemp{
+	width: 220px;
+	height: 200px;
+	background: rgb(41, 41, 41);
+  color: rgb(255, 255, 255);
+  position: absolute;
+}
+.temp:hover{
+	text-decoration: underline;
+	cursor: pointer;
+}
+.currentWeather{
+	width: 180px;
+	height: 200px;
+	background: rgb(237, 237, 237);
+	margin: 0;
+  position: absolute;
+	top: 0;
+	right: 0;
+}
+.help{
+	font-size: 15px;
+	text-align: center;
+	top: 15px; 
+	position: absolute;
+	color: rgb(255, 255, 255);
+}
+.info{
+  background: rgb(42, 178, 234);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 180px;
+  height: 50px;
+}
+.temp{
+	width: 100px;
+	height: 50px;
+	margin-top: 110px;
+	margin-left: 80px;
+	position: absolute;
+	color: rgb(255, 255, 255);
+}
+.location{
+	width: 120px;
+	height: 30px;
+	margin-top: 80px; 
+	margin-left: 80px;
+	position: absolute;
+	color: rgb(237, 237, 237)
+}
+.conditions{
+	width: 100px;
+	height: 30px;
+	margin-top: 30px;
+	margin-left: 60px;
+	position: absolute;
+}
+.weather-description{
+	margin-left: 53px; 
+	margin-top: 30px; 
+	position: absolute;
+}
+
+.wind {
+	width: 100%;
+	margin-left: 30px;
+	position: relative;
+	font-size: 14px; 
+  }
+  
+  .wind::after {
+	display: block;
+	content: '\f050';
+	font-family: weathericons;
+	font-size: 25px;
+	margin-left: 75px; 
+	position: absolute;
+	bottom: -26px; 
+  }
