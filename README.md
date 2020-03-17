@@ -17,10 +17,6 @@
 </ul>
 
 <h4>Demo</h4>
- <iframe width="560" height="315"
-src="https://vimeo.com/398367244" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+ ![](weather-demo.gi)
 
 
