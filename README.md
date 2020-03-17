@@ -17,5 +17,6 @@
 </ul>
 
 <h4>Demo</h4>
-[<img src="https://i.imgur.com/X0bi94G.mp4g" width="50%">]
+[![Watch the video](https://vimeo.com/398367244)](https://vimeo.com/398367244)
+
 
