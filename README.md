@@ -17,8 +17,7 @@
 </ul>
 
 <h4>Demo</h4>
-<video width="320" height="240" controls>
-  <source src="https://vimeo.com/398367244" type="video/mp4">
-</video>
+[![Weather App Demo](https://i.imgur.com/X9ETGEc.png)](https://vimeo.com/398367244 "Weather App Demo - Click to Watch!")
+
 
 
