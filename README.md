@@ -17,6 +17,6 @@
 </ul>
 
 <h4>Demo</h4>
- ![public](weather-demo.gif)
+ ![demo](https://raw.githubusercontent.com/SibRaza15/Weather-App/blob/master/public/weather-demo.gif)
 
 
