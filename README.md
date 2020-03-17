@@ -17,7 +17,10 @@
 </ul>
 
 <h4>Demo</h4>
-[![Weather App Demo](https://i.imgur.com/X9ETGEc.png)](https://vimeo.com/398367244 "Weather App Demo - Click to Watch!")
-
+ <iframe width="560" height="315"
+src="https://vimeo.com/398367244" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 
