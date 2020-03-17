@@ -17,6 +17,6 @@
 </ul>
 
 <h4>Demo</h4>
-[![Watch the video](https://vimeo.com/398367244)](https://vimeo.com/398367244)
+[![Watch the video](https://i.imgur.com/X0bi94G.mp4)](https://vimeo.com/398367244)
 
 
