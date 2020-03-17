@@ -17,6 +17,6 @@
 </ul>
 
 <h4>Demo</h4>
- ![](weather-demo.gi)
+ ![](weather-demo.gif)
 
 
