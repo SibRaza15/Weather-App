@@ -17,7 +17,5 @@
 </ul>
 
 <h4>Demo</h4>
-<video>
-<ideo width="320" height="240" autoplay>
-  <source src="https://vimeo.com/user109879350/review/398367244/a44e61831b" type="video/mp4">
-</video>
+[<img src="https://i.imgur.com/X0bi94G.mp4g" width="50%">]
+
