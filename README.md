@@ -17,6 +17,8 @@
 </ul>
 
 <h4>Demo</h4>
-<video src="https://vimeo.com/398367244" width="320" height="200" controls preload></video>
+<video width="320" height="240" controls>
+  <source src="https://vimeo.com/398367244" type="video/mp4">
+</video>
 
 
