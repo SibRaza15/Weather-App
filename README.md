@@ -15,3 +15,5 @@
 <ul>
   <li>OpenWeatherMap </li>
 </ul>
+
+![demo](public/weather-demo.gif)
